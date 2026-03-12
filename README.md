@@ -110,7 +110,7 @@ Analytical Framework (5 Categories · 17 Questions)
 | 2 | 📊 **Raw Data** | Original 1,800-row unmodified dataset |
 | 3 | ✅ **Cleaned Data** | Standardised, formatted, analysis-ready version |
 | 4 | 🗺️ **Factors** | Mind map — 5 categories, 17 research questions |
-| 5 | 📅 **Monthly Trends** | Month-by-month KPIs, MoM growth %, peak & dip analysis |
+| 5 | 📅 **Monthly Trends** | Month-by-month KPIs, peak & dip analysis |
 | 6 | 📡 **Platform & Campaign** | Platform ROAS comparison + 3×4 Campaign Type ROAS matrix |
 | 7 | 🌍 **Country & Industry** | Geographic efficiency + industry vertical performance |
 | 8 | 🔀 **Pivot Analysis** | 3 cross-tab pivot tables (Platform×Industry, Country×Platform, Month×Platform) |
@@ -299,9 +299,7 @@ Enable: Macros if prompted (for slicer reset button)
 ## 👤 Author
 
 **Pranit**
-- 🔗 [GitHub](https://github.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 youremail@example.com
+- 🔗 [GitHub]((https://github.com/pranitlokare))
 
 ---
 
