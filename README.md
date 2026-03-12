@@ -24,8 +24,6 @@
 - [Key KPIs](#-key-kpis--full-year-2024)
 - [Top Findings](#-top-findings)
 - [Tools & Skills Used](#-tools--skills-used)
-- [Project Files](#-project-files)
-- [How to Use](#-how-to-use)
 - [Author](#-author)
 
 ---
