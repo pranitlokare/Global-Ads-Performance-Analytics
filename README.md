@@ -241,16 +241,11 @@ Revenue ($L)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
-
----
 
 <div align="center">
 
 **⭐ If you found this project useful, please give it a star!**
 
-*Built with 💙 using Microsoft Excel · Data Analysis · Dashboard Design*
+*Built using Microsoft Excel · Data Analysis · Dashboard Design*
 
 </div>
