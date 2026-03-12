@@ -232,53 +232,7 @@ Revenue ($L)
 
 ---
 
-## 📁 Project Files
 
-```
-Global-Ads-Performance-Analytics/
-│
-├── 📊 global_ads_performance.xlsx     ← Main Excel workbook (10 sheets)
-├── 📄 README.md                       ← This file
-│
-└── 📂 assets/                         ← Screenshots (optional)
-    ├── dashboard_preview.png
-    ├── roas_matrix.png
-    └── monthly_trends.png
-```
-
----
-
-## 🚀 How to Use
-
-**1. Clone or download the repository**
-```bash
-git clone https://github.com/yourusername/Global-Ads-Performance-Analytics.git
-```
-
-**2. Open the Excel file**
-```
-Open: global_ads_performance.xlsx
-Enable: Macros if prompted (for slicer reset button)
-```
-
-**3. Navigate the workbook**
-- Start with **Problem Statement** to understand the context
-- Review **Raw Data → Cleaned Data** to see the data preparation process
-- Explore **Factors** sheet for the analytical framework
-- Use the **Dashboard** tab for interactive analysis — click slicers to filter by Platform, Month, Country, or Industry
-
-**4. Interact with the Dashboard**
-
-| Slicer | Options |
-|--------|---------|
-| 📅 Month | Jan · Feb · Mar · Apr · May · Jun · Jul · Aug · Sep · Oct · Nov · Dec |
-| 📡 Platform | Google Ads · Meta Ads · TikTok Ads |
-| 🌍 Country | UAE · UK · USA · Germany · Canada · India · Australia |
-| 🏭 Industry | SaaS · EdTech · Fintech · Healthcare · E-commerce |
-
-> ℹ️ Click any slicer option to filter all 7 charts and 9 KPI cards simultaneously. Hold `Ctrl` to select multiple options.
-
----
 
 ## 👤 Author
 
