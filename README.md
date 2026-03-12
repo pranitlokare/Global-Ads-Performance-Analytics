@@ -23,7 +23,6 @@
 - [Workbook Structure](#-workbook-structure--10-sheets)
 - [Key KPIs](#-key-kpis--full-year-2024)
 - [Top Findings](#-top-findings)
-- [Recommendations](#-recommendations)
 - [Tools & Skills Used](#-tools--skills-used)
 - [Project Files](#-project-files)
 - [How to Use](#-how-to-use)
@@ -83,22 +82,22 @@ Analytical Framework (5 Categories · 17 Questions)
 
 ### 📋 Columns (14 fields)
 
-| Column | Type | Description |
+| Column | | Description |
 |--------|------|-------------|
-| `date` | Date | Campaign date |
-| `platform` | Categorical | Ad platform (Google / Meta / TikTok) |
-| `campaign_type` | Categorical | Search / Display / Video / Shopping |
-| `industry` | Categorical | Target industry vertical |
-| `country` | Categorical | Target country |
-| `impressions` | Numeric | Total ad impressions |
-| `clicks` | Numeric | Total clicks |
-| `CTR` | Numeric | Click-through rate (%) |
-| `CPC` | Numeric | Cost per click ($) |
-| `ad_spend` | Numeric | Total ad spend ($) |
-| `conversions` | Numeric | Total conversions |
-| `CPA` | Numeric | Cost per acquisition ($) |
-| `revenue` | Numeric | Revenue generated ($) |
-| `ROAS` | Numeric | Return on ad spend (Revenue ÷ Spend) |
+| `date` |  | Campaign date |
+| `platform` |  | Ad platform (Google / Meta / TikTok) |
+| `campaign_type` |  | Search / Display / Video / Shopping |
+| `industry` |  | Target industry vertical |
+| `country` |  | Target country |
+| `impressions` |  | Total ad impressions |
+| `clicks` |  | Total clicks |
+| `CTR` |  | Click-through rate (%) |
+| `CPC` |  | Cost per click ($) |
+| `ad_spend` |  | Total ad spend ($) |
+| `conversions` |  | Total conversions |
+| `CPA` |  | Cost per acquisition ($) |
+| `revenue` |  | Revenue generated ($) |
+| `ROAS` |  | Return on ad spend (Revenue ÷ Spend) |
 
 ---
 
@@ -212,21 +211,6 @@ Revenue ($L)
 
 ---
 
-## 💡 Recommendations
-
-| Priority | Recommendation | Expected Impact |
-|----------|---------------|-----------------|
-| 🔴 **Critical** | Reallocate 10–15% of Google Ads budget → TikTok Ads | **+$7.3M revenue** from same total spend |
-| 🔴 **Critical** | Pause Google Display campaigns (ROAS 3.68x) | Save ~$5–6L in wasted annual spend |
-| 🟠 **High** | Scale TikTok Search — best combo in dataset (10.52x) | Highest ROI deployment of new budget |
-| 🟠 **High** | Increase India budget by 20–25% (reallocate from USA) | ~$15.9L incremental revenue potential |
-| 🟠 **High** | Counter-cyclical Q3 strategy — maintain May–July spend | Recover ~$6–8L in lost seasonal revenue |
-| 🟡 **Medium** | Audit Fintech campaigns — lowest ROAS vertical (6.03x) | Improve blended ROAS by 0.2–0.4x |
-| 🟡 **Medium** | Shift Shopping budget → Search campaigns | CPA improvement from $48 → $44 |
-| 🟡 **Medium** | Increase EdTech budget by 10% (best ROAS industry 6.83x) | ~$11.5L additional revenue |
-| 🟢 **Low** | Front-load Q4 (Oct–Dec) spend by 10% vs prior year | Capture seasonal efficiency at 7.10–7.17x |
-
----
 
 ## 🛠️ Tools & Skills Used
 
