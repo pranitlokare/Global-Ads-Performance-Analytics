@@ -14,6 +14,7 @@
 <br>
 
 ---
+![Global Ads Performance Dashboard](dashboard_preview.png)
 
 ## 📌 Table of Contents
 
