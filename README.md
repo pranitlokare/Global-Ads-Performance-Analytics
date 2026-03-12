@@ -1,4 +1,4 @@
-#Global-Ads-Performance-Analytics
+
 # 📊 Global Ads Performance Analytics
 
 > **An end-to-end Excel analytics project analyzing $11.1M in digital ad spend across Google Ads, Meta Ads & TikTok Ads — uncovering budget inefficiencies, seasonal patterns, and data-driven optimization opportunities worth $7M+ in incremental revenue.**
